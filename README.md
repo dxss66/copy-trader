@@ -242,7 +242,7 @@ A：当前版本面向单人内网使用，面板默认没有登录密码。请�
 | 价格 | **1000 USDT**（一次性） |
 | 部署方式 | **永久本地部署**：安装在你自己的 Windows 电脑上，数据本地保存 |
 | 售后 | **永久售后**：安装、配置、使用问题都可以随时联系 |
-| 联系 | Telegram：**@gendancopy** |
+| 联系 | Telegram：**[@gendancopy](https://t.me/gendancopy)** |
 
 说明：
 
@@ -262,6 +262,6 @@ A：当前版本面向单人内网使用，面板默认没有登录密码。请�
 
 ## 十、联系
 
-- Telegram：**@gendancopy**
+- Telegram：**[@gendancopy](https://t.me/gendancopy)**
 - 项目：Copy Trader · 多交易所跟单系统
 - 部署方式：本地部署（Windows）
