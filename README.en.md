@@ -1,12 +1,12 @@
 **English | [中文](README.md)**
 
-# Copy Trader · Multi-Exchange Copy Trading System
+# Copy Trader · Binance / OKX / Gate Copy Trading System
 
 > Local deployment · Multi-account · Multi-lead · Second-level sync · Full ledger · Runs on modest hardware
 
-Copy Trader is a futures copy-trading system that runs on your own Windows machine. It watches a lead trader's fills or position changes in real time and mirrors them — open, add, reduce, close — into your own Binance, Gate, or OKX futures accounts at a multiplier you set. It ships with a full web dashboard, ledgers, statistics, and risk controls.
+**Copy Trader is a multi-account futures copy trading bot for Binance, OKX, and Gate.** It watches a lead trader's fills or position changes in real time and mirrors them — open, add, reduce, close — into your own futures accounts at a multiplier you set. It ships with a full web dashboard, ledgers, statistics, and risk controls.
 
-Everything runs locally. No cloud server to rent, no funds handed to any third party.
+**Multi-account copying · share gate against position overshoot · per-trade latency measurement · full ledger reconciliation.** Everything runs locally. No cloud server to rent, no funds handed to any third party.
 
 ![Dashboard](docs/panel.png)
 
