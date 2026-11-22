@@ -46,6 +46,18 @@ Notes:
 - Polling interval is configurable per source.
 - Position-snapshot mode only establishes a baseline on first sight of a lead; it does not chase existing positions, so you never size an entry against a position that already ran.
 
+### Lead account API (Binance)
+
+Bind a **Binance lead-trading account** and publish trades as a lead:
+
+- Your lead account's entries, adds, and exits are mirrored to your followers
+- Can be combined with copy trading: follow a target trader (KOL) first, then publish through your own lead account
+- Followers copy under your name — the **lead-trading profit share is yours**
+
+In other words, this system works in both directions: follow other people's trades, and let others follow yours — on the same machine.
+
+> Note: Binance has its own rules for lead accounts (lead content should reflect your own trading decisions). Verify compliance before combining the two.
+
 ---
 
 ## 3. Supported exchanges
