@@ -56,8 +56,6 @@ Bind a **Binance lead-trading account** and publish trades as a lead:
 
 In other words, this system works in both directions: follow other people's trades, and let others follow yours — on the same machine.
 
-> Note: Binance has its own rules for lead accounts (lead content should reflect your own trading decisions). Verify compliance before combining the two.
-
 ---
 
 ## 3. Supported exchanges
